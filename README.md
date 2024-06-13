@@ -2,13 +2,13 @@ Clustering with K-means and Hierarchical Clustering
 ==============================================================
 Introduction:
 This code demonstrates the application of clustering techniques, specifically K-means and Hierarchical Clustering, on healthcare data. The goal is to uncover patterns and group similar data points for better insights.
-============================================================
+
 Getting Started:
 Import necessary libraries: Pandas, Numpy, Seaborn, Matplotlib.
 Load healthcare data using Pandas.
 Visualize missing values with a heatmap using Seaborn.
 Usage
-=============================================================
+
 
 Data Preprocessing:
 
